@@ -1,0 +1,15 @@
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\SOFTWAREPOO.csproj.AssemblyReference.cache
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\SOFTWAREPOO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\SOFTWAREPOO.AssemblyInfoInputs.cache
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\SOFTWAREPOO.AssemblyInfo.cs
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\SOFTWAREPOO.csproj.CoreCompileInputs.cache
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\bin\Debug\net6.0\SOFTWAREPOO.exe
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\bin\Debug\net6.0\SOFTWAREPOO.deps.json
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\bin\Debug\net6.0\SOFTWAREPOO.runtimeconfig.json
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\bin\Debug\net6.0\SOFTWAREPOO.dll
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\bin\Debug\net6.0\SOFTWAREPOO.pdb
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\SOFTWAREPOO.dll
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\refint\SOFTWAREPOO.dll
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\SOFTWAREPOO.pdb
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\SOFTWAREPOO.genruntimeconfig.cache
+C:\Users\PC-95606\source\repos\SOFTWAREPOO\obj\Debug\net6.0\ref\SOFTWAREPOO.dll
